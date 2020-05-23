@@ -4,7 +4,8 @@
   "private": true,
   "engines": {
     "npm": "6.12.1",
-    "node": "12.13.1"
+    "node": "12.13.1",
+  "homepage": "https://budgecalc.herokuapp.com/",
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
